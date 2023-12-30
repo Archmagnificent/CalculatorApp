@@ -1,0 +1,32 @@
+﻿  CalculatorApp.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+  (compiling source file 'CalculatorApp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(163,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'CalculatorApp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(173,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'CalculatorApp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\atomic(105,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'CalculatorApp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\atomic(360,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'CalculatorApp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\atomic(376,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+  (compiling source file 'CalculatorApp.cpp')
+  
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(28,53): warning C4365: 'argument': conversion from 'int' to 'std::array<int,5>::size_type', signed/unsigned mismatch
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(37,54): warning C4365: 'argument': conversion from 'int' to 'std::array<int,5>::size_type', signed/unsigned mismatch
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(57,1): warning C4820: 'Token': '7' bytes padding added after data member 'Token::op'
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(103,29): warning C4458: declaration of 'left' hides class member
+  H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(62,11):
+  see declaration of 'Calculator::left'
+  
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(103,51): warning C4458: declaration of 'right' hides class member
+  H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(63,11):
+  see declaration of 'Calculator::right'
+  
+H:\GitHubRepositories\CalculatorApp\CalculatorApp.cpp(118): warning C4715: 'Calculator::calculate': not all control paths return a value
+  CalculatorApp.vcxproj -> H:\GitHubRepositories\CalculatorApp\x64\Debug\CalculatorApp.exe
