@@ -209,7 +209,7 @@ public:
 void interface()
 {
     std::cout << "---------------------------------------------------- \n";
-    std::cout << "Welcum to my retarded attempt at making a calculator \n";
+    std::cout << "------------Some dumb calculator app---------------- \n";
     std::cout << "---------------------------------------------------- \n";
     std::cout << "\n";
     std::cout << "---------------------------------------------------- \n";
